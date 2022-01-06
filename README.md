@@ -30,3 +30,25 @@
  
  
   </div>
+  <h1 align= "center" >Proyectos</h1>
+
+  ![vegan](https://user-images.githubusercontent.com/87371966/148423541-c42bf928-c7e1-492a-8841-59402d5e89e0.png)
+  
+  
+  <a href="https://github.com/Micata03/camada16985.git" target="_blank" style="display: inline"  > Tienda online  realizada con React JS</a>
+  
+  
+![adoptame](https://user-images.githubusercontent.com/87371966/148424622-f76fc482-9242-40a4-b21a-72fb1ed5d22d.png)
+  
+  <a href="https://github.com/Micata03/Adoptame.git" target="_blank" style="display: inline"  >Pagina para la adopcion de mascotas </a>
+  
+  
+
+ ![crud](https://user-images.githubusercontent.com/87371966/148427013-0903a558-fb85-4749-852c-4659bdab6f03.png)
+
+   <a href="https://github.com/Micata03/crud.git" target="_blank" style="display: inline"  >App reclamo de usuarios realizada con React JS </a>
+  
+  
+![summit](https://user-images.githubusercontent.com/87371966/148427183-4d220a6a-e195-46c0-a476-f088c90bc4f4.png)
+  
+   <a href="https://github.com/Micata03/Proyecto-Summit.git" target="_blank" style="display: inline"  >Pagina emprendimiento inmobiliario </a>
